@@ -1,0 +1,25 @@
+#### Duomenys ★★☆
+
+1. Linos matematikos pažymiai yra: 7, 10, 8, 7, 6, 9, 10, 5. Koks Linos matematikos pažymių vidurkis? Atsakymą užrašyk dešimtaine trupmena.  
+2. Reginos fizikos pažymiai yra: 7, 9, 8, 7, 7, 9, 10, 8. Kokia Reginos fizikos pažymių moda?  
+3. Rimantės chemijos pažymiai yra: 8, 9, 7, 7, 6, 9, 10, 7. Kokia Rimantės chemijos pažymių mediana?  
+4. Lentelėje pateikti Manto geografijos pažymiai.  
+   * Kiek pažymių Mantas gavo iš geografijos?  
+   * Kurią dalį visų Manto pažymių sudaro devintukai? Atsakymą pateikite dešimtaine trupmena.  
+   * Raskite Manto pažymių modą
+   * Raskite Manto pažymių medianą  
+   * Raskite Manto geografijos pažymių vidurkį. Atsakymą pateikite dešimtaine trupmena.  
+5. Diagramoje pavaizduoti vienos klasės apklausos duomenys, kokio dydžio batus avi moksleiviai.  
+   * Kiek moksleivių mokosi šioje klasėje?  
+   * Kurią dalį visų moksleivių sudaro avintys 41 dydžio batus? Atsakymą pateikite dešimtaine trupmena.  
+   * Kokia šios klasės moksleivių batų dydžio moda?  
+   * Kokia šios klasės moksleivių batų dydžio mediana?  
+   * Koks šios klasės moksleivių batų dydžio vidurkis? Atsakymą pateikite dešimtaine trupmena.  
+6. Mantas turi 5 pažymius iš istorijos. Jo istorijos pažymių vidurkis lygus 7.2. Mantas parašė eilinį kontrolinį ir gavo devynetą. Koks dabar jo pažymių vidurkis? Atsakymą pateikite dešimtaine trupmena.  
+7. Patricijos anglų kalbos pažymiai yra: 7, 9, 8, 7, □, 9, 10, 7. Koks Patricijos pažymys slepiasi po kvadratėliu, jeigu yra žinoma, kad visų jos anglų kalbos pažymių vidurkis yra 7.75?  
+8. Vienoje darbovietėje dirba 39 žmonių kolektyvas. Jų amžiaus vidurkis yra lygus 37. Vienam darbuotojui susirgus, likusių darbuotojų amžiaus vidurkis tapo 36,5. Kiek metų buvo susirgusiam darbuotojui?  
+9. Dainiaus istorijos pažymiai yra: 6, 8, 8, 7, 10, 9, 8, 7, 6, 10. Kokį dar vieną pažymį turi gauti Dainius, kad jo visų istorijos pažymių moda nepasikeistų?  
+10. Lentelėje pateikti vienos klasės moksleivių per vasarą perskaitytų knygų skaičiaus apklausos duomenys.
+Knygų sk. 0 1 2 3 4
+Dažnis ? 5 8 3 3 
+Kiek daugiausia moksleivių galėjo neperskaityti nei vienos knygos, kai šios apklausos mediana lygi 2?

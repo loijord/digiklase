@@ -1,0 +1,67 @@
+### Copyable
+#### Ketvirtos klasės kartojimas ★★☆
+
+1. Apskaičiuok 2345+6789
+2. Padalink 5435:12 ir atsakyme nurodyk tik gautą liekaną.
+3. Apskaičiuok 15⋅183 − 129
+4. Atėminys lygus 73, o skirtumas lygus 23. Kam yra lygus turinys?
+5. Kas turi būti kvadratėlio vietoje, kad lygybė būtų teisinga? (13+☐)⋅3=192
+6. Nurodyk mažiausią galimą skaičių, kad nelygybė būtų teisinga? 93+☐>187
+7. Turime keturis skaitmenis: 4, 6, 0, 1. Kokį didžiausią keturženklį skaičių galima sudaryti iš šių skaitmenų?
+8. Kiek daliklių turi skaičius 12?
+9. Parašykite skaitmenimis skaičių: aštuoni tūkstančiai dvidešimt vienas.
+10. Kuri visų kvadratėlių dalis yra pažymėta?  
+$\begin{array}{l}
+☒☒☒☒☒☒☒☒☒☒  \\
+☒☒☒☐☐☐☐☐☐☐  \\
+☐☐☐☐☐☐☐☐☐☐  \end{array}$  
+12. 109 mm+3 cm 2 mm
+13. Dabar laikrodis rodo 5h 35 min. Kiek laiko šis laikrodis rodys po 210 minučių?
+14. Močiutė pirko vienodą kiekį puodelių ir lėkščių. Lėkštės kainavo po 3 eurus, o puodeliai – po 5eurus. Kiek kainavo puodeliai, jei visos lėkštės kainavo 36 eurus?
+15. Kiek briaunų turi kubas?
+16. Stačiakampio ilgis lygus 12, o jo plotis yra tris kartus mažesnis už jo ilgį. Surask šio stačiakampio plotą.
+17. Rask pavaizduotos figūros perimetrą.
+18. Skaičiai surašyti tam tikra tvarka: 5, 8, 14, 23, ... Koks skaičius turėtų būti parašytas iš karto po skaičiaus 23?
+19. Diagramoje pavaizduota, po kiek taškų per varžybas pelnė komandos žaidėjai. Kiek žaidėjų surinko daugiau kaip 10 taškų?
+
+#### Ketvirtos klasės kartojimas ★★★
+
+1. Apskaičiuok 1254+2569−3129  
+2. Apskaičiuok (303⋅27):81  
+3. Apskaičiuok 2304−1638:14  
+4. Daliklis lygus 13, o dalmuo lygus 46. Kam yra lygus dalinys?  
+5. Kas turi būti kvadratėlio vietoje, kad lygybė būtų teisinga? 9⋅(☐−97)=126  
+6. Nurodyk didžiausią galimą skaičių, kad nelygybė būtų teisinga? 1187+☐<5635  
+7. Turime keturis skaitmenis: 5, 2, 1, 2. Iš šių skaitmenų sudaryk didžiausią ir mažiausią keturženklius skaičius. Kam lygi šių skaičių suma?
+8. Kiek daliklių turi skaičius 72?  
+9. Apskaičiuok: trys tūkstančiai šimtas penkiasdešimt septyni plius keturi tūkstančiai keturiasdešimt penki.  
+10. Kuri visų kvadratėlių dalis yra pažymėta?  
+☒☒☒☒☒☒☒☒  
+☒☒☒☒☒☒☒☒  
+☒☒☒☐☐☐☐☐  
+☐☐☐☐☐☐☐☐  
+☐☐☐☐☐☐☐☐  
+11. 1090 g+3 kg 250 g−1 kg 710 g  
+12. Dabar laikrodis rodo 15h 05min. Kiek laiko šis laikrodis rodė prieš 505 minutes?  
+13. Lukas turi 24 monetas po 20 ct, o jo draugas turi kažkiek monetų po 50 ct. Jie abu kartu turi 12 Eur 30 ct. Kiek monetų po 50 ct turi Luko draugas?  
+14. Jeigu sudaugintum visus standartinio šešiasienio žaidimo kailiuko skaičius, kokį skaičių gautum?  
+15. Rask pavaizduotos figūros perimetrą.  
+16. Rask pavaizduotos figūros plotą.  
+17. Kiek vienetinių kubelių ❒ telpa stačiakampyje gretasienyje?  
+18. Lentelėje pavaizduota, kokius pažymius per kontrolinį gavo vienos klasės mokiniai. Kuri visų mokinių dalis gavo 9 arba daugiau?  
+Pažymys 7 8 9 10  
+Mokinių skaičius 5 4 7 4
+
+#### Tekstiniai uždaviniai
+1. Klasėje yra 24 vaikai. 1/3 jų yra berniukai. Kiek klasėje yra berniukų?  
+2. Mama Jonukui davė keturis eurus. Tėtis dar pridėjo pusę tiek, o močiutė dar pridėjo 1/4 sumos, kurią davė mama. Kiek iš viso pinigų gavo Jonukas? 
+3. Atstumas nuo namų iki mokyklos yra 1 km. Kiek minučių truktų kelionė nuo namų iki mokyklos, jeigu eitume 40 metrų per minutę greičiu?  
+4. Motiejus turi 7 monetas po 20 ct, o jo draugas turi kažkiek monetų po 50 ct. Jie abu kartu turi 3 Eur 40 ct. Kiek monetų po 50 ct turi Motiejaus draugas?  
+5. Kiek kainuoja dvi matematikos knygos knygyne, jeigu 9 tokios matematikos knygos kainuoja 72 eurus?  
+6. Bilietas į kino filmą kainuoja 6 eurus. 23 vaikai nori nueiti į filmą, todėl jie visi kartu surinko 170 eurų. Kiek pinigų jiems liks po bilietų pirkimo?  
+7. Yra žinoma, kad iškepti 28 tortams reikia 8 kg miltų. Kiek miltų reikia, jeigu norime iškepti tik 7 tortus?  
+8. Stalas su 4 kėdėmis kainuoja 500 eurų. Kiek kainuoja stalas, jeigu vienos kėdės kaina yra 70 eurų?  
+9. Kvadrato perimetras yra lygus 20 cm. Kam yra lygus šio kvadrato plotas?  
+10. Tomas turi 30 skanių saldainių. Šeštadienį jis suvalgė trečdalį savo saldainių, o sekmadienį - pusę likusių. Kiek nesuvalgytų saldainių liko Tomui?  
+11. Turime du vienodo ilgio rąstus. Kiekvieną rąstą reikia supjautį į 10 viendo ilgio gabalus. Kiek iš viso pjūvių reikės padaryti?  
+12. Tomas sugalvojo skaičių. Tada prie jo pridėjo 12 vienetų ir gautą atsakymą padalino iš 5. Prie gauto dalmens pridėjo 3 ir gavo 10. Kokį skaičių sugalvojo Tomas?
