@@ -7,10 +7,11 @@
 * [9 klasė](ematematikas/9%20klasė/testai.ipynb)
 
 ### PUPP 2025m. pasiruošimas.
-* [PUPP 2025 bandomieji](PUPP/Turinys.ipynb) [3]
-* [Elicėjaus temos ruoštis PUPP](https://mokinys.elicejus.lt/dashboard/1/public-test?toggleTestType=pupp)
+* [PUPP 2025 bandomieji](PUPP/Turinys.ipynb) [4]
+* [PUPP 2025 vertinimo kriterijai](https://www.nsa.smm.lt/wp-content/uploads/2025/01/PUPP.pdf)
+* [PUPP 2025 temos ruošimuisi iš Elicėjaus](https://mokinys.elicejus.lt/dashboard/1/public-test?toggleTestType=pupp)
 * [5 - 10 klasių geometrijos konspektas](https://bit.ly/3CTgl6h)
-* PUPP sprendimų video: [2015 m.](https://matematika.lt/pupp/2015/) [2016 m.](https://matematika.lt/pupp/2016/) [2017 m.](https://matematika.lt/pupp/2017/) [2018 m.](https://matematika.lt/pupp/2018/) [2019 m.](https://matematika.lt/pupp/2019/)
+* Ankstesnių metų PUPP sprendimų video: [2015 m.](https://matematika.lt/pupp/2015/) [2016 m.](https://matematika.lt/pupp/2016/) [2017 m.](https://matematika.lt/pupp/2017/) [2018 m.](https://matematika.lt/pupp/2018/) [2019 m.](https://matematika.lt/pupp/2019/)
   
 ### Kita medžiaga.
 * Teorija 5 - 8 klasėms
