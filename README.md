@@ -14,7 +14,7 @@
   
 ### Kita medžiaga.
 * Teorija 5 - 8 klasėms
-  * [Vektoriai Arminui](Matematika. 8 kl. Vektoriai)
+  * [Vektoriai Arminui](Matematika. 8 kl. Vektoriai.pdf)
 * Teorija 9 - 10 klasėms
   * [Mano trigonometrinis skritulys](https://www.geogebra.org/m/ashxxryt)
   * [Sinusų teorema](https://www.geogebra.org/classic/bxggd7yn) ir [kosinusų teorema](https://www.geogebra.org/m/becpkj59)
