@@ -22,6 +22,7 @@
   * [Mano trigonometrinis skritulys](https://www.geogebra.org/m/ashxxryt)
   * [Sinusų teorema](https://www.geogebra.org/classic/bxggd7yn) ir [kosinusų teorema](https://www.geogebra.org/m/becpkj59)
 * Temos visoms klasėms
+    * 8 - 9 kl. [stojamieji](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Mantas/stojamieji/turinys.ipynb) į geriausias Lietuvos mokyklas
     * Tekstiniai uždaviniai  
         * [Tekstinių uždavinių vedlys, veikia pilnai tik atidarant su Adobe Acrobat Reader ar kitomis .pdf skaityklėmis](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/zodinis.pdf)
         * [Daugiau tekstinių uždavinių medžiagos ir pavyzdžių, kuriuose nurodyta, ką žymime x](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/nezinomieji.pdf)
