@@ -6,10 +6,18 @@
 * [8 klasė](ematematikas/8%20klasė/testai.ipynb)
 * [9 klasė](ematematikas/9%20klasė/testai.ipynb)
 
+### Ugnei
+* [Trupmenų treniruotės](https://www.geogebra.org/m/xafff9rn)
+* [PUPP 2025 nurašytos salygos](PUPP/PUPP_pavyzdžiai/PUPP_2025/PUPP_2025.ipynb)
+* [PUPP 2025 sprendimų variantai](PUPP/PUPP_sprendimai/PUPP_2025/PUPP_2025.ipynb)
+* [PUPP 2025 pagrindinė sesija BETA ITS](https://beta.etestavimas.lt/tests/view/ad37f8ea4db9/577)
+* [PUPP 2025 bandomoji sesija BETA ITS](https://beta.etestavimas.lt/tests/view/bc0e5412490a/569)
+* 
 ### PUPP 2025m. pasiruošimas.
 * [PUPP 2025 visi testai](PUPP/Turinys.ipynb) [4]
 * [PUPP 2025 vertinimo kriterijai](https://www.nsa.smm.lt/wp-content/uploads/2025/01/PUPP.pdf)
 * [PUPP ir VBE vertinimo gairės](https://www.nsa.smsm.lt/2025/05/15/skelbiamos-matematikos-vertinimo-gaires/)
+* [Specialisto komentaras apie PUPP 2025](https://www.facebook.com/dai.nius.370/posts/pfbid02WboUP7d4Ld5oKAdZcvP2b7Bi4oNmMeSTTUX3oVg8kf5sdnpJB11sQymymUDjKxGLl)
 * [PUPP 2025 temos ruošimuisi iš Elicėjaus](https://mokinys.elicejus.lt/dashboard/1/public-test?toggleTestType=pupp)
 * [5 - 10 klasių geometrijos konspektas](https://bit.ly/3CTgl6h)
 * [Online susibėgimas ruošiantis PUPP](https://www.youtube.com/watch?v=eBt0-qPAO00)
