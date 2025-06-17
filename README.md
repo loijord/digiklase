@@ -6,6 +6,8 @@
 * [8 klasė](ematematikas/8%20klasė/testai.ipynb)
 * [9 klasė](ematematikas/9%20klasė/testai.ipynb)
 
+### Kornelijai
+* [Uždavinys apie kubo pjūvį](kornelijai.ipynb)
 ### Ugnei
 * [Trupmenų treniruotės](https://www.geogebra.org/m/xafff9rn)
 * [PUPP 2025 nurašytos salygos](PUPP/PUPP_pavyzdžiai/PUPP_2025/PUPP_2025.ipynb)
