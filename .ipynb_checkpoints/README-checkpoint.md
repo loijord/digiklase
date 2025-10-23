@@ -5,7 +5,7 @@ Uždaviniai įvairių klasių temoms (dar nepridėta 10 ir 12kl.)
 * [7 klasė](ematematikas/7%20klasė/testai.ipynb)
 * [8 klasė](ematematikas/8%20klasė/testai.ipynb)
 * [9 klasė](ematematikas/9%20klasė/testai.ipynb)
-* [**11 klasė**](ematematikas/11%20klasė/testai.ipynb)
+* [**11 klasė**](ematematikas/11%20klasė/Turinys.ipynb)
 
 PUPP 2025m. pasiruošimas.
 
