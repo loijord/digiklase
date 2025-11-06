@@ -21,6 +21,10 @@ Kita medžiaga.
 
 * **Trigonometrija**
     * [**Simono trigonometrijos pradžiamokslis**](https://github.com/loijord/matematikos_pamokos/blob/master/technologijos/failai/trigonometrija/readme.md) (geriausiai veikia su Adobe Acrobat Reader)
+ 
+* **Aritmetinė ir geometrinė progresijos**
+    * [**Simono paruošta teorinė medžiaga**](progresijos.ipynb)
+
 * Tekstiniai uždaviniai  
     * [Tekstinių uždavinių vedlys, veikia pilnai tik atidarant su Adobe Acrobat Reader ar kitomis .pdf skaityklėmis](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/zodinis.pdf)
     * [Daugiau tekstinių uždavinių medžiagos ir pavyzdžių, kuriuose nurodyta, ką žymime x](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/nezinomieji.pdf)
