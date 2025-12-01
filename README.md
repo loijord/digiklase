@@ -16,11 +16,15 @@ PUPP 2025m. pasiruošimas.
   
 Kita medžiaga.
 
+* **Funkcijos**
+  (Dinaminiai paveikslėliai veikia tik su Adobe Acrobat Reader)
+    * [**Funkcijos**](https://github.com/loijord/egzanalysis/blob/master/READING/funkcijos/funkcijos.pdf)
+    * [**Funkcijų transformacijos**](https://github.com/loijord/egzanalysis/blob/master/READING/funkcijos/funkcijos_tik_transformacijos.pdf)
 * **Trigonometrija**
     * [**Simono trigonometrijos pradžiamokslis**](https://github.com/loijord/matematikos_pamokos/blob/master/technologijos/failai/trigonometrija/readme.md) (geriausiai veikia su Adobe Acrobat Reader)
  
 * **Aritmetinė ir geometrinė progresijos**
-    * [**Simono paruošta teorinė medžiaga**](progresijos.ipynb)
+    * [**Simono medžiaga**](progresijos.ipynb)
 
 * Tekstiniai uždaviniai  
     * [Tekstinių uždavinių vedlys, veikia pilnai tik atidarant su Adobe Acrobat Reader ar kitomis .pdf skaityklėmis](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/zodinis.pdf)
