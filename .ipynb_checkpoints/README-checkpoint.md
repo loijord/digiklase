@@ -5,8 +5,8 @@ Dalis pagal neatnaujintas programas
 * [7 klasė](ematematikas/7%20klasė/testai.ipynb)
 * [8 klasė](ematematikas/8%20klasė/testai.ipynb)
 * [9 - 12 klasės](ematematikas/9%20-%2012%20klasė.ipynb)
-* [**Nauja! Uždavinių sprendimai**](ematematikas/Sprendimai/turinys.ipynb)
-* 
+* [**Nauja! Uždavinių sprendimai**](ematematikas/Sprendimai/Turinys.ipynb)
+
 ## Mokymosi medžiaga
 
 * **Funkcijos**
