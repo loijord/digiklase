@@ -9,20 +9,21 @@ Dalis pagal neatnaujintas programas
 
 ## Mokymosi medžiaga
 
-* **Funkcijos**
+* Funkcijos
   (Dinaminiai paveikslėliai veikia tik su Adobe Acrobat Reader)
-    * [**Funkcijos**](https://github.com/loijord/egzanalysis/blob/master/READING/funkcijos/funkcijos.pdf)
-    * [**Funkcijų transformacijos**](https://github.com/loijord/egzanalysis/blob/master/READING/funkcijos/funkcijos_tik_transformacijos.pdf)
-* **Trigonometrija**
-    * [**Simono trigonometrijos pradžiamokslis**](https://github.com/loijord/matematikos_pamokos/blob/master/technologijos/failai/trigonometrija/readme.md) (geriausiai veikia su Adobe Acrobat Reader)
+    * [Funkcijos](https://github.com/loijord/egzanalysis/blob/master/READING/funkcijos/funkcijos.pdf)
+    * [Funkcijų transformacijos](https://github.com/loijord/egzanalysis/blob/master/READING/funkcijos/funkcijos_tik_transformacijos.pdf)
+* Trigonometrija
+    * [Simono trigonometrijos pradžiamokslis](https://github.com/loijord/matematikos_pamokos/blob/master/technologijos/failai/trigonometrija/readme.md) (geriausiai veikia su Adobe Acrobat Reader)
  
-* **Aritmetinė ir geometrinė progresijos**
-    * [**Simono medžiaga**](progresijos.ipynb)
+* Aritmetinė ir geometrinė progresijos
+    * [Simono medžiaga](progresijos.ipynb)
 
 * Tekstiniai uždaviniai  
     * [Tekstinių uždavinių vedlys, veikia pilnai tik atidarant su Adobe Acrobat Reader ar kitomis .pdf skaityklėmis](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/zodinis.pdf)
     * [Daugiau tekstinių uždavinių medžiagos ir pavyzdžių, kuriuose nurodyta, ką žymime x](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Martynas/nezinomieji.pdf)
     * [Tekstinių uždavinių pavyzdžiai iš egzaminų, tekstinio uždavinio apibrėžtis, mokytojų patarimai ir kt.](https://github.com/loijord/matematikos_pamokos/blob/master/programa/Vilius/TU/TU.ipynb)
+
 * Treniruotės
     * [Trupmenų](https://www.geogebra.org/m/xafff9rn)
     * [Tiesinių lygčių](https://www.geogebra.org/m/pkkcyxab)
@@ -34,5 +35,8 @@ Dalis pagal neatnaujintas programas
 * [Elicėjaus PUPP 2025](https://mokinys.elicejus.lt/dashboard/1/public-test/4006)
 * [Elicėjaus resursai ruoštis PUPP](https://mokinys.elicejus.lt/dashboard/1/public-test?toggleTestType=pupp)
 * [5 - 10 klasių geometrijos konspektas](https://bit.ly/3CTgl6h)
-* PUPP sprendimų video: [2015 m.](https://matematika.lt/pupp/2015/) [2016 m.](https://matematika.lt/pupp/2016/) [2017 m.](https://matematika.lt/pupp/2017/) [2018 m.](https://matematika.lt/pupp/2018/) [2019 m.](https://matematika.lt/pupp/2019/)
+* PUPP sprendimų video: [2015 m.](https://matematika.lt/pupp/2015/) [2016 m.]
+
+## Programavimas
+* (https://matematika.lt/pupp/2016/) [2017 m.](https://matematika.lt/pupp/2017/) [2018 m.](https://matematika.lt/pupp/2018/) [2019 m.](https://matematika.lt/pupp/2019/)
 * [Formulynas](PUPP/PUPP%2F2025%20metai/formulynas.png)
